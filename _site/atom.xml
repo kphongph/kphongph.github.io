@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Lanyon</title>
- <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
- <link href="http://lanyon.getpoole.com/"/>
- <updated>2014-11-20T04:31:03-06:00</updated>
- <id>http://lanyon.getpoole.com</id>
+ <title>Phongphun Kijsanayothin</title>
+ <link href="http://kphongph.github.io/atom.xml" rel="self"/>
+ <link href="http://kphongph.github.io/"/>
+ <updated>2014-11-20T05:06:17-06:00</updated>
+ <id>http://kphongph.github.io</id>
  <author>
-   <name>Mark Otto</name>
-   <email>markdotto@gmail.com</email>
+   <name>Phongphun Kijsanayothin</name>
+   <email></email>
  </author>
 
  
  <entry>
    <title>Introduction to Sets</title>
-   <link href="http://lanyon.getpoole.com/2014/11/20/introduction-to-sets/"/>
+   <link href="http://kphongph.github.io/2014/11/20/introduction-to-sets/"/>
    <updated>2014-11-20T00:00:00-06:00</updated>
-   <id>http://lanyon.getpoole.com/2014/11/20/introduction-to-sets</id>
+   <id>http://kphongph.github.io/2014/11/20/introduction-to-sets</id>
    <content type="html">&lt;h2&gt;Basic Terminology&lt;/h2&gt;
 
 &lt;p&gt;A &lt;strong&gt;set&lt;/strong&gt; is a collection of objects where the &lt;strong&gt;order&lt;/strong&gt; and &lt;strong&gt;frequency&lt;/strong&gt;
@@ -98,9 +98,9 @@ $B$ but $A \neq B$.&lt;/p&gt;
  
  <entry>
    <title>Introducing Lanyon</title>
-   <link href="http://lanyon.getpoole.com/2014/01/02/introducing-lanyon/"/>
+   <link href="http://kphongph.github.io/2014/01/02/introducing-lanyon/"/>
    <updated>2014-01-02T00:00:00-06:00</updated>
-   <id>http://lanyon.getpoole.com/2014/01/02/introducing-lanyon</id>
+   <id>http://kphongph.github.io/2014/01/02/introducing-lanyon</id>
    <content type="html">&lt;p&gt;Lanyon is an unassuming &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It&amp;#39;s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
 
 &lt;h3&gt;Built on Poole&lt;/h3&gt;
@@ -143,9 +143,9 @@ $B$ but $A \neq B$.&lt;/p&gt;
  
  <entry>
    <title>Example content</title>
-   <link href="http://lanyon.getpoole.com/2014/01/01/example-content/"/>
+   <link href="http://kphongph.github.io/2014/01/01/example-content/"/>
    <updated>2014-01-01T00:00:00-06:00</updated>
-   <id>http://lanyon.getpoole.com/2014/01/01/example-content</id>
+   <id>http://kphongph.github.io/2014/01/01/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
@@ -273,9 +273,9 @@ $B$ but $A \neq B$.&lt;/p&gt;
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://lanyon.getpoole.com/2013/12/31/whats-jekyll/"/>
+   <link href="http://kphongph.github.io/2013/12/31/whats-jekyll/"/>
    <updated>2013-12-31T00:00:00-06:00</updated>
-   <id>http://lanyon.getpoole.com/2013/12/31/whats-jekyll</id>
+   <id>http://kphongph.github.io/2013/12/31/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project&amp;#39;s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
