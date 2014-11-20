@@ -11,7 +11,7 @@
 
   <title>
     
-      Introducing Lanyon &middot; Lanyon
+      Introduction to Sets &middot; Lanyon
     
   </title>
 
@@ -110,45 +110,84 @@
 
       <div class="container content">
         <div class="post">
-  <h1 class="post-title">Introducing Lanyon</h1>
-  <span class="post-date">02 Jan 2014</span>
-  <p>Lanyon is an unassuming <a href="http://jekyllrb.com">Jekyll</a> theme that places content first by tucking away navigation in a hidden drawer. It&#39;s based on <a href="http://getpoole.com">Poole</a>, the Jekyll butler.</p>
+  <h1 class="post-title">Introduction to Sets</h1>
+  <span class="post-date">20 Nov 2014</span>
+  <h2>Basic Terminology</h2>
 
-<h3>Built on Poole</h3>
+<p>A <strong>set</strong> is a collection of objects where the <strong>order</strong> and <strong>frequency</strong>
+of an object in the collection does not have the meaning. 
+A set is said to <strong>contain</strong> its elements.</p>
 
-<p>Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by <a href="https://twitter.com/mdo">@mdo</a>. Poole, and every theme built on it (like Lanyon here) includes the following:</p>
-
-<ul>
-<li>Complete Jekyll setup included (layouts, config, <a href="/404">404</a>, <a href="/atom.xml">RSS feed</a>, posts, and <a href="/about">example page</a>)</li>
-<li>Mobile friendly design and development</li>
-<li>Easily scalable text and component sizing with <code>rem</code> units in the CSS</li>
-<li>Support for a wide gamut of HTML elements</li>
-<li>Related posts (time-based, because Jekyll) below each post</li>
-<li>Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)</li>
-</ul>
-
-<h3>Lanyon features</h3>
-
-<p>In addition to the features of Poole, Lanyon adds the following:</p>
+<h3>Notation</h3>
 
 <ul>
-<li>Toggleable sliding sidebar (built with only CSS) via <strong>☰</strong> link in top corner</li>
-<li>Sidebar includes support for textual modules and a dynamically generated navigation with active link support</li>
-<li>Two orientations for content and sidebar, default (left sidebar) and <a href="https://github.com/poole/lanyon#reverse-layout">reverse</a> (right sidebar), available via <code>&lt;body&gt;</code> classes</li>
-<li><a href="https://github.com/poole/lanyon#themes">Eight optional color schemes</a>, available via <code>&lt;body&gt;</code> classes</li>
+<li>If $x$ is a member or elements of the set $S$, we write $x \in S$.</li>
+<li>If $x$ is not an element of $S$, we write $x \notin S$.</li>
 </ul>
 
-<p><a href="https://github.com/poole/lanyon#readme">Head to the readme</a> to learn more.</p>
+<p><em>Definition 1</em>: The <em>empty</em> set, denoted as $\emptyset$ or $\{\}$, 
+is the set with no members.</p>
 
-<h3>Browser support</h3>
+<h3>Set Representation</h3>
 
-<p>Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.</p>
+<p>Sets can be written in a variety ways. In this lecture, there are two
+forms for representing the set:</p>
 
-<h3>Download</h3>
+<ul>
+<li><strong>Roster</strong> (Tabular) : list the elements if there are only a few</li>
+<li><strong>Set Builder</strong> (Rule) : specify the sets using predicate to indicate
+the attributes of the elements of the set.<br></li>
+</ul>
 
-<p>Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.</p>
+<p>For example, <em>the set $A$ of all even number less than ten and greater 
+than zero</em> can be representing as</p>
 
-<p>Thanks!</p>
+<ul>
+<li>Roster form as : $A = \{2, 4, 6, 8\}$</li>
+<li>Set builder form as : $A = \{x | x~\mbox{mod}~2 = 0~and~0 \le x &lt; 10\}$
+
+<ul>
+<li>two parts : (1) variable <strong>$x$</strong> reprensenting member of set and 
+(2) <strong>boolean existing condition</strong> of the variable where 
+&quot;|&quot; is read as &quot;such that&quot;</li>
+</ul></li>
+</ul>
+
+<h3>Common Universal Sets</h3>
+
+<p>The following notation is commonly used in general.</p>
+
+<ul>
+<li>$\mathbb{R}$ is the set of real numbers,</li>
+<li>$\mathbb{N}$ is the set of natural numbers (i.e., $\{0, 1, 2, 3, \ldots\}$)</li>
+<li>$\mathbb{Z}$ is the set of integers (i.e., 
+$\{\ldots, -2, -1, 0, 1, 2, \ldots\}$)</li>
+<li>$\mathbb{Z^+}$ is the set of positive integers 
+(i.e., $\{1, 2, 3, \ldots\}$</li>
+</ul>
+
+<h3>Complements and Subsets</h3>
+
+<p><em>Definition 2</em>: The <strong>complement</strong> of set $A$ can be denoted as $\bar{A}$ 
+which representing a set $\{x | x \notin A \}$.</p>
+
+<p><em>Definition 3</em>: A set $A$ is a <strong>subset</strong> of a set $B$, denoted as 
+$A \subseteq B$, if and only if, every element of $A$ is also an elements of 
+$B$ </p>
+
+<p><em>Definition 4</em>: A set $A$ is a <strong>proper subset</strong> of a set $B$, denoted as 
+$A \subset B$, if and only if, every element of $A$ is also an elements of 
+$B$ but $A \neq B$.</p>
+
+<blockquote>
+<p>Example 1: Elements and Subsets</p>
+
+<p>Given a set $S = \{1, 2, \{1\}, \{3\}\}$, then </p>
+
+<ul>
+<li>$ 2 \in S$</li>
+</ul>
+</blockquote>
 
 </div>
 
@@ -158,9 +197,9 @@
     
       <li>
         <h3>
-          <a href="//2014/11/20/introduction-to-sets/">
-            Introduction to Sets
-            <small>20 Nov 2014</small>
+          <a href="//2014/01/02/introducing-lanyon/">
+            Introducing Lanyon
+            <small>02 Jan 2014</small>
           </a>
         </h3>
       </li>
