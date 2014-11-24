@@ -11,7 +11,7 @@ Turing machine makes a move by considering the three factors: (1) the current st
 
 >Example, design the turing machine for recognize the language $L = \{ >wcw | w \in \{a, b\}^*\}$.
 >
->First, we need to outline the description task for our machine.
+>First, we need to outline the description tasks for our machine.
 > 
 > 1. *Find* the first unmarked '$a$' or '$b$'
 > 2. If there is no unmarked '$a$' or '$b$' left in the first '$w$' (i.e., the  first unmarked is '$c$', scan thru the second '$w$' whether it contains either '$a$' or '$b$'. If the second '$w$' does not contain neither '$a$' or '$b$', **accept**. Otherwise **reject**.
