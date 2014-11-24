@@ -20,4 +20,4 @@ title: Theory of Computation
 
 1. Preliminaries
   - [Introduction to Sets]({% post_url 2014-11-20-introduction-to-sets %})
-2. [Turing Machine]({% post url 2014-11-24-turing-machine %})
+2. [Turing Machine]({% post_url 2014-11-24-turing-machine %})
