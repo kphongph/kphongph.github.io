@@ -17,9 +17,14 @@ title: Lecture Note (01/21/2015)
 2. Greedy Algorithms
   - Activity-selection problem
   - Knapsack problem (both 0-1 and fractional)  
-  - Matriods
+  - Matroids
   - Task-scheduling problem
 
+## Lecture 
 
+Dynamic Programming = Smart Exhaustive  
+- Optimal substructure
+- Overlapping subproblems  
+- Memoization 
 
 > Written with [StackEdit](https://stackedit.io/).
