@@ -15,5 +15,4 @@ title: Advanced Analysis of Algorithm
 
 ## Lecture
 
-1. [Dynamic Programming]({% post_url 2015-01-21-dynamic-programming %})
-2. Greedy Algorithm [Turing Machine]({% post_url 2014-11-24-turing-machine %})
+
