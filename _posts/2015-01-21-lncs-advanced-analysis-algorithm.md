@@ -17,7 +17,7 @@ title: Lecture Note (01/21/2015)
 2. Greedy Algorithms
   - Activity-selection problem
   - Knapsack problem (both 0-1 and fractional)  
-  - Matroids
+  - **Matroids**
   - Task-scheduling problem
 
 ## Lecture 
