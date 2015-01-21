@@ -21,7 +21,6 @@ title: Lecture Note (01/21/2015)
   - Task-scheduling problem
 
 ## Lecture 
-
 Dynamic Programming = Smart Exhaustive  
 - Optimal substructure
 - Overlapping subproblems  
