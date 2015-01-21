@@ -4,6 +4,7 @@ title: Course
 ---
 
 * [Theory of Computation](/course/theory_of_computation)
+* [Advanced Analysis of Algorithm](/course/advanced_analysis_algorithm)
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
