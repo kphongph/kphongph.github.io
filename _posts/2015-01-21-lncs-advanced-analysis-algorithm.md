@@ -22,8 +22,8 @@ title: Lecture Note (01/21/2015)
 
 ## Lecture 
 Dynamic Programming = Smart Exhaustive  
-- Optimal substructure
+- Optimal substructure  
 - Overlapping subproblems  
-- Memoization 
+- Memoization  
 
 > Written with [StackEdit](https://stackedit.io/).
