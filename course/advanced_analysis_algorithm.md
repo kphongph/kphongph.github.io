@@ -18,6 +18,13 @@ title: Advanced Analysis of Algorithm
 1. Dynamic Programming
   - Assembly-line Scheduling  
   - Matrix-chain multiplication  
+  - Shortest Path Problem  
+  - Longest Common Subsequence  
 2. Greedy Algorithm
+  - Activity-selection problem  
+  - Knapsack problem (both 0-1 and fractional)  
+  - Matroids  
+  - Task-scheduling problem  
+  - Coin changing problem  
 
 
