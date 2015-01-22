@@ -15,4 +15,9 @@ title: Advanced Analysis of Algorithm
 
 ## Lecture
 
+1. Dynamic Programming
+  - Assembly-line Scheduling  
+  - Matrix-chain multiplication  
+2. Greedy Algorithm
+
 
