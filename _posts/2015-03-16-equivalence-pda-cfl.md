@@ -1,5 +1,7 @@
-Example
--------
+---
+layout: post
+title: Introduction to Sets
+---
 
 กำหนดให้ $M = (\{q_0, q_1\}, \{0, 1\}, \{X, Z_0\}, \delta, q_0, Z_0, \emptyset)$ โดยที่ $\delta$ อธิบายดัวต่อไปนี้
 
