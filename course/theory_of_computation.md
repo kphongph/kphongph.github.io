@@ -20,4 +20,6 @@ title: Theory of Computation
 
 1. Preliminaries
   - [Introduction to Sets]({% post_url 2014-11-20-introduction-to-sets %})
-2. [Turing Machine]({% post_url 2014-11-24-turing-machine %})
+2. Push-Down Automata
+  - [Equivalence of PDA's and CFL's](% post_url 2015-03-16-equivalence-pda-cfl %})
+3. [Turing Machine]({% post_url 2014-11-24-turing-machine %})
